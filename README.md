@@ -1,2 +1,2 @@
 # Hello-world
-Vi ser hvad de ske ved at skrive her, jeg aner intet om github
+Vi ser hvad der sker ved at skrive her, jeg aner intet om github
